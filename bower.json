@@ -1,0 +1,26 @@
+{
+  "name": "cf-backbone-mmm",
+  "version": "0.0.1",
+  "homepage": "https://github.com/BrockBeaudry/cf-backbone-mmm",
+  "authors": [
+    "Brock Beaudry <brock.beaudry@gmail.com>"
+  ],
+  "main": "server.js",
+  "moduleType": [
+    "node"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.1",
+    "backbone": "~1.1.2"
+  }
+}
